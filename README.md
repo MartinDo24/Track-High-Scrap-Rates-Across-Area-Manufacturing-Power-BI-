@@ -265,11 +265,16 @@ Table 8: DateTable
 
 -Recommendation: Enhance inspections at Final Assembly and Finished Goods Storage with automated tools to reduce scrap, and conduct deeper analysis on Class M and L products to optimize processes.
 
+<img width="1314" height="735" alt="image" src="https://github.com/user-attachments/assets/313faf5b-63d6-4f31-977a-078e43ad220b" />
+
+
 #### 3️⃣ Dashboard 3 Preview
 
 -Observation: Dashboard 3 focuses on inventory risk, showing Safety Stock (974), UnsafeProductValue ($4.66M), and distribution by location (Subassembly $2.4M, Finished Goods $2.3M). Trends indicate high unsafe products at Subassembly, requiring attention
 
 -Recommendation: Focus on improving management at Subassembly to reduce unsafe products, implement regular inventory checks, and use forecasting tools to optimize Safety Stock.
+
+<img width="1312" height="729" alt="image" src="https://github.com/user-attachments/assets/b8dddfe4-5e6e-4fd3-a8b2-b82efebb0e53" />
 
 
 ## 🔎 Final Conclusion & Recommendations  
