@@ -1,4 +1,6 @@
-<img width="625" height="121" alt="image" src="https://github.com/user-attachments/assets/4bd84449-4198-4218-aa2c-1b2bc0869f82" /># Production-process-analysis
+# Production-process-analysis
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b4e8804a-dae3-4140-b75c-309c75654c28" />
 
 Author: ĐỖ HOÀNG MINH  
 
