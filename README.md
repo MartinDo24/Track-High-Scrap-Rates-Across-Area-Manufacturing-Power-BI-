@@ -47,7 +47,7 @@ Tools Used: Power BI
 
 - Source: Used the data already in the PBIX file to make reports
 
-- Size: 8 columns ~ 100K rows
+- Size: 8 table ~ 100K rows
 
 - Format: Production-process-analysis.pbix
 
