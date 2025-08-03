@@ -311,11 +311,37 @@ Table 8: DateTable
 
 📌 Key Takeaways:
 
-✔️ Recommendation 1: Focus on improving processes at Subassembly and Final Assembly with automated inspection tools to effectively reduce scrap.
+1.🔧 Subassembly and Final Assembly are key defect points, with higher scrap rates due to inadequate inline inspection and inconsistent operator performance.
 
-✔️ Recommendation 2: Enhance management of unsafe inventory at Subassembly and Finished Goods Storage, using regular checks and forecasting to optimize Safety Stock.
+2.📦 Unsafe inventory levels are high, especially at Subassembly and Finished Goods Storage, indicating poor quality segregation and delayed decisions.
 
-✔️ Recommendation 3: Prioritize optimizing production of key products like Fork End, Seat Stays, and conduct deeper analysis on product classes (Class M, L) to improve overall efficiency.
+3.🧩 Certain parts—such as Fork End, Seat Stays, and Crank Sets—show up repeatedly in high-loss reports, suggesting chronic quality issues.
+
+4.🏭 Some production lines or areas have disproportionately higher rejection rates, often due to outdated processes or lack of root cause feedback loops.
+
+5.📊 Current dashboards mostly show surface-level trends; deeper analysis by defect reason, time, and region is essential for true problem solving.
+
+6.💸 High-cost product classes (Class M & L) are contributing significantly to financial losses when rejected, creating a mismatch between quality risk and production value.
+
+## ✅ Recommendations:
+
+1. Deploy automated inspection at Subassembly and Final Assembly
+Introduce AI-vision systems or sensor-based checks to identify defects early and reduce dependence on manual inspection.
+
+2. Strengthen inventory management of unsafe and pending items
+Set up clear inventory segregation rules, frequent re-check intervals, and apply forecasting models to avoid overstocking or aging quality holds.
+
+3. Deep-dive into high-loss components like Fork End, Seat Stays
+Use historical rejection data and defect reason tagging to identify failure modes and redesign or retrain processes accordingly.
+
+4. Implement location-based quality tracking
+Break down rejection and loss data by factory zone/line to spot problematic areas, and implement zone-specific SOPs or operator training.
+
+5. Introduce a dynamic loss-cost dashboard
+Go beyond quantity metrics—track actual financial loss per product category, by region and supplier, to prioritize where to act for best ROI.
+
+6. Align production planning with quality risk
+Reduce production load on lines that frequently produce high-defect products, or shift complex items to better-performing zones.
 
 
 
