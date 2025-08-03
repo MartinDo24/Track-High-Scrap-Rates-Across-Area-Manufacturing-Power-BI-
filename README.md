@@ -97,7 +97,7 @@ Tools Used: Power BI
 
 ### 📊 Data Structure & Relationships  
 
-#### 1️⃣ Tables Used:
+#### ▶ ▶ 1️⃣ Tables Used:
 
 -Fact table:
   
@@ -119,7 +119,7 @@ Tools Used: Power BI
   
   + DateTable
 
-#### 2️⃣ Table Schema & Data Snapshot  
+#### ▶ ▶ 2️⃣ Table Schema & Data Snapshot  
 
 Table 1: F_Product_Product
 
@@ -206,7 +206,7 @@ Table 8: DateTable
 | WeekDay     | TEXT      |
 
 
-#### 3️⃣ Data Relationships:  
+#### ▶ ▶ 3️⃣ Data Relationships:  
 
 | From Table (Column)                       | To Table (Column)                        | Relationship Type |
 |------------------------------------------|------------------------------------------|-------------------|
