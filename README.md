@@ -122,7 +122,8 @@ Tools Used: Power BI
 
 </details>
 
-#### 2️⃣ Table Schema & Data Snapshot  
+<details>
+<summary> 2️⃣ Table Schema & Data Snapshot </summary>  
 
 Table 1: F_Product_Product
 
@@ -209,7 +210,10 @@ Table 8: DateTable
 | WeekDay     | TEXT      |
 
 
-#### 3️⃣ Data Relationships:  
+</details>
+
+<details>
+<summary> 3️⃣ Data Relationships: </summary>  
 
 | From Table (Column)                       | To Table (Column)                        | Relationship Type |
 |------------------------------------------|------------------------------------------|-------------------|
@@ -225,6 +229,8 @@ Table 8: DateTable
 | F_Production_WorkOrderRouting(ProductID) | D_Product_ProductTable(ProductID)        | Many-to-One       |
 
 <img width="783" height="509" alt="image" src="https://github.com/user-attachments/assets/6720c718-cf06-4306-a55a-9411e5608d67" />
+
+</details>
 
 ## 🧠 Design Thinking Process  
 
