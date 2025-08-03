@@ -97,7 +97,7 @@ Tools Used: Power BI
 
 ### 📊 Data Structure & Relationships  
 
-#### -*1️⃣ Tables Used:*
+#### ▸ **1️⃣ Tables Used:**
 
 -Fact table:
   
