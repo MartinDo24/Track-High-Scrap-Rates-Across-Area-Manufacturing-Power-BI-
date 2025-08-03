@@ -98,7 +98,7 @@ Tools Used: Power BI
 ### 📊 Data Structure & Relationships  
 
 <details>
-<summary> <strong>1️⃣ Tables Used:</strong></summary>
+<summary>1️⃣ Tables Used:</summary>
 
 -Fact table:
   
@@ -119,6 +119,8 @@ Tools Used: Power BI
   + D_Production_WorkOrder
   
   + DateTable
+
+</details>
 
 #### 2️⃣ Table Schema & Data Snapshot  
 
