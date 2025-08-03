@@ -1,6 +1,5 @@
 # Production-process-analysis-PBI
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b4e8804a-dae3-4140-b75c-309c75654c28" />
 
 Author: ĐỖ HOÀNG MINH  
 
@@ -40,6 +39,50 @@ Tools Used: Power BI
 -Strategic planners
 
 -Data analysts
+
+## 🎯 Project Outcome
+
+1. Better visibility into key quality issues at the warehouse level
+  
+  + Track the Warehouse Rejection Rate with detailed breakdowns by product type, region, supplier, and rejection reason.
+
+  + Enable stakeholders to detect patterns of poor quality and quickly identify high-risk areas or suppliers
+
+2. Quantify and control product loss and failure costs
+
+  - Measure the total quantity of defective products and associated financial losses across locations and time.
+
+  - Identify which products or suppliers cause the highest costs, helping optimize sourcing and inspection strategies.
+
+3. Support root cause analysis through multi-layered data views
+
+   - Implement a Layer 0–2 dashboard structure:
+
+      + Layer 0: High-level KPIs (e.g. defect rate, loss quantity, total cost)
+
+      + Layer 1: Time-based breakdown (monthly/quarterly/yearly)
+
+      + Layer 2: Combined views by region, product, time, and defect reason
+
+   -This allows teams to drill down from overview to granular root causes efficiently.
+
+4. Deliver actionable insights to guide supplier management and cost control
+
+   - Provide clear answers to key stakeholder questions like:
+
+   - Which products have the highest defect rate?
+
+   - Which areas incur the most loss?
+
+   - Which suppliers are underperforming?
+
+   - These insights support strategic decisions on supplier evaluations, contract renegotiations, and internal quality policies.
+
+5. Lay the foundation for an automated and scalable quality monitoring system
+
+   - Ensure that quality data is automated, visualized, and updated regularly.
+
+   - Allow easy extension to future metrics (e.g., inspection pass rate, delivery delays, returns from customers).
 
 ## 📂 Dataset Description & Data Structure  
 
