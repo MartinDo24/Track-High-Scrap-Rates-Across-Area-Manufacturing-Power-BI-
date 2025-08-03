@@ -182,46 +182,33 @@ Table 8: DateTable
 
 ## 🧠 Design Thinking Process  
 
+<img width="1576" height="845" alt="image" src="https://github.com/user-attachments/assets/48ceee4d-6910-45e1-8467-8ced5e19a8bb" />
+
 1️⃣ Empathize & EDA 
 
 -Answer 5W1H
 
-<img width="1016" height="360" alt="image" src="https://github.com/user-attachments/assets/183e77b6-4ff2-437b-9fe6-fa9b5555d7ca" />
+<img width="1024" height="645" alt="image" src="https://github.com/user-attachments/assets/ee709635-e443-4360-b2c6-31c41adec03d" />
 
 -Put myself in the stakeholder position to create Empathy map
 
-<img width="625" height="402" alt="image" src="https://github.com/user-attachments/assets/5b464ea0-e4ea-4231-aa12-66b2a0c4310e" />
-
--EDA 
-
-<img width="272" height="381" alt="image" src="https://github.com/user-attachments/assets/989fd89f-3dcc-47c3-88e5-72617b93f8d9" />
+<img width="1034" height="767" alt="image" src="https://github.com/user-attachments/assets/fddbbf42-f5ca-4d4a-aef5-91ad6cdc2ee0" />
 
 2️⃣ Define point of view  
 
 -Define Northstar Metric
 
-<img width="239" height="359" alt="image" src="https://github.com/user-attachments/assets/13f66c35-2368-4767-b2c0-1bf1e955e082" />
+<img width="1040" height="762" alt="image" src="https://github.com/user-attachments/assets/68d060d7-61ec-4d9f-93ff-98373fbd87c5" />
 
 -Define Point of View
 
-<img width="459" height="351" alt="image" src="https://github.com/user-attachments/assets/84ad77b2-8903-4be6-8581-ab63367af58d" />
-
--Create some Growth Formula base on Pov 
-
-<img width="625" height="121" alt="image" src="https://github.com/user-attachments/assets/023edd51-c8e2-4345-93f0-d1f4689db72a" />
+<img width="1034" height="771" alt="image" src="https://github.com/user-attachments/assets/a8c85ec4-ce7d-4eba-b253-3bd5e476fb61" />
 
 3️⃣ Ideate  
 
 -BRAINSTORMING: start from Growth Formula
 
-<img width="652" height="403" alt="image" src="https://github.com/user-attachments/assets/066cfe88-80d5-403b-9534-947bf4dc49c8" />
-
--STRUCTURE IDEA: start from each Pov
-
-<img width="922" height="294" alt="image" src="https://github.com/user-attachments/assets/63fb52fc-eff7-4893-a578-fe5ad8822b12" />
-
-
-
+<img width="1034" height="754" alt="image" src="https://github.com/user-attachments/assets/92683cf3-4899-457c-bda4-e97c6e3d0736" />
 
 ## ⚒️ Main Process 
 
