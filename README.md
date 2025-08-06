@@ -258,7 +258,7 @@ Table 8: DateTable
 
 3️⃣ Ideate  
 
--BRAINSTORMING: start from Growth Formula
+-BRAINSTORMING
 
 <img width="1034" height="754" alt="image" src="https://github.com/user-attachments/assets/92683cf3-4899-457c-bda4-e97c6e3d0736" />
 
