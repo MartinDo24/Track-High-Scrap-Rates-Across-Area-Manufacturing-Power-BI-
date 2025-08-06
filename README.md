@@ -302,7 +302,7 @@ Table 8: DateTable
 
 - Recommendation: Focus on improving the Subassembly process by implementing automated inspection tools to reduce scrap. Also, prioritize monitoring and optimizing the production of products like Fork End and Seat Stays to enhance overall efficiency.
 
-<img width="1310" height="738" alt="image" src="https://github.com/user-attachments/assets/43728426-6205-44b3-a37d-b402e2386b98" />
+<img width="1303" height="729" alt="image" src="https://github.com/user-attachments/assets/7f0221aa-b19a-427c-8444-6f9987b3a8e3" />
 
 #### 2️⃣ Dashboard 2 Preview  
 
@@ -310,8 +310,7 @@ Table 8: DateTable
 
 -Recommendation: Enhance inspections at Final Assembly and Finished Goods Storage with automated tools to reduce scrap, and conduct deeper analysis on Class M and L products to optimize processes.
 
-<img width="1314" height="735" alt="image" src="https://github.com/user-attachments/assets/313faf5b-63d6-4f31-977a-078e43ad220b" />
-
+<img width="1311" height="740" alt="image" src="https://github.com/user-attachments/assets/1784d472-cf2e-4b48-9ad2-161b6dd9ae07" />
 
 #### 3️⃣ Dashboard 3 Preview
 
@@ -319,8 +318,7 @@ Table 8: DateTable
 
 -Recommendation: Focus on improving management at Subassembly to reduce unsafe products, implement regular inventory checks, and use forecasting tools to optimize Safety Stock.
 
-<img width="1312" height="729" alt="image" src="https://github.com/user-attachments/assets/b8dddfe4-5e6e-4fd3-a8b2-b82efebb0e53" />
-
+<img width="1313" height="736" alt="image" src="https://github.com/user-attachments/assets/54ce3b10-4f3b-4fae-bd60-2a64a25a816b" />
 
 ## 🔎 Final Conclusion & Recommendations  
 
