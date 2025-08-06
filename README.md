@@ -262,6 +262,12 @@ Table 8: DateTable
 
 <img width="1034" height="754" alt="image" src="https://github.com/user-attachments/assets/92683cf3-4899-457c-bda4-e97c6e3d0736" />
 
+4️⃣ & 5️⃣ Prototype - Review
+
+<img width="1020" height="668" alt="image" src="https://github.com/user-attachments/assets/5a1d5f4d-b7d1-4aa3-8848-48655b03312d" />
+
+<img width="685" height="212" alt="image" src="https://github.com/user-attachments/assets/8fd6f3c6-7cf5-4a19-ad96-663517924ded" />
+
 ## ⚒️ Main Process 
 
 1️⃣ Data Cleaning & Preprocessing
