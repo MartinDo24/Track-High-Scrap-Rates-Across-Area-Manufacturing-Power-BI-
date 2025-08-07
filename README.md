@@ -1,6 +1,5 @@
 # Production-process-analysis-PBI
 
-![Uploading image.png…]()
 
 Author: ĐỖ HOÀNG MINH  
 
