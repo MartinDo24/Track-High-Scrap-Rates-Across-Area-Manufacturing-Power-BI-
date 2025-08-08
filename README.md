@@ -1,4 +1,4 @@
-# Production-process-analysis-PBI
+# Track High Scrap Rates Across Area  – Retail E-commerce | Power BI 
 
 
 Author: ĐỖ HOÀNG MINH  
