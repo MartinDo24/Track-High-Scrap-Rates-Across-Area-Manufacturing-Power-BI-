@@ -1,4 +1,4 @@
-# Track High Scrap Rates Across Area  – Retail E-commerce | Power BI 
+# Track High Scrap Rates Across Area  – Manufacture | Power BI 
 
 
 Author: ĐỖ HOÀNG MINH  
