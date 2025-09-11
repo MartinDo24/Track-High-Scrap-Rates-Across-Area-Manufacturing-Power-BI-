@@ -1,4 +1,4 @@
-# Track High Scrap Rates Across Area  – Manufacture | Power BI 
+# Track High Scrap Rates Across Area  – Manufacturing | Power BI 
 
 
 Author: ĐỖ HOÀNG MINH  
@@ -26,11 +26,15 @@ Tools Used: Power BI
 
 ### 📖 What is this project about?  
 
-✅Addresses scrap issues by identifying key locations and causes of waste
+Which products have the highest defect rate? Which areas incur the most loss? Which suppliers are underperforming?
+
+✅Addresses scrap issues for E-commerce company by identifying key locations and causes of waste
 
 ✅Reduces unsafe inventory risks through safety management and data analysis
 
 ✅Improves production efficiency by suggesting tools and processes to optimize quality
+
+✅Find out areas have most scrap rate
 
 ### 👤 Who is this project for?  
 
@@ -40,49 +44,7 @@ Tools Used: Power BI
 
 -Data analysts
 
-## 🎯 Project Outcome
 
-1. Better visibility into key quality issues at the warehouse level
-  
-  + Track the Warehouse Rejection Rate with detailed breakdowns by product type, region, supplier, and rejection reason.
-
-  + Enable stakeholders to detect patterns of poor quality and quickly identify high-risk areas or suppliers
-
-2. Quantify and control product loss and failure costs
-
-  - Measure the total quantity of defective products and associated financial losses across locations and time.
-
-  - Identify which products or suppliers cause the highest costs, helping optimize sourcing and inspection strategies.
-
-3. Support root cause analysis through multi-layered data views
-
-   - Implement a Layer 0–2 dashboard structure:
-
-      + Layer 0: High-level KPIs (e.g. defect rate, loss quantity, total cost)
-
-      + Layer 1: Time-based breakdown (monthly/quarterly/yearly)
-
-      + Layer 2: Combined views by region, product, time, and defect reason
-
-   -This allows teams to drill down from overview to granular root causes efficiently.
-
-4. Deliver actionable insights to guide supplier management and cost control
-
-   - Provide clear answers to key stakeholder questions like:
-
-   - Which products have the highest defect rate?
-
-   - Which areas incur the most loss?
-
-   - Which suppliers are underperforming?
-
-   - These insights support strategic decisions on supplier evaluations, contract renegotiations, and internal quality policies.
-
-5. Lay the foundation for an automated and scalable quality monitoring system
-
-   - Ensure that quality data is automated, visualized, and updated regularly.
-
-   - Allow easy extension to future metrics (e.g., inspection pass rate, delivery delays, returns from customers).
 
 ## 📂 Dataset Description & Data Structure  
 
@@ -298,27 +260,27 @@ Table 8: DateTable
 
 #### 1️⃣ Dashboard 1 Preview 
 
-- Observation: Dashboard 1 provides an overview of scrap with key metrics like Total Orders (5M), Total Scrap (1K), Scrap Value ($2.8M), and Scrap Rate (0.24%). It also highlights trends with the Top 5 locations with the highest scrap (e.g., Subassembly, Final Assembly) and Top 5 scrap products (e.g., Fork End, Seat Stays). Notable patterns include scrap reasons (e.g., Wheel misaligned, Trim too short) decreasing over the years (2011-2014), with the insight that Subassembly is the area needing the most attention.
+- Observation: Dashboard 1 provides an overview of scrap with key metrics like Total Orders (5M), Total Scrap (1K), Scrap Value ($2.8M), and Scrap Rate (0.24%). It also highlights trends with the Top 5 locations with the highest scrap (e.g., Subassembly, Final Assembly) and Top 5 scrap products (e.g., Fork End, Seat Stays). ML Crankset was a highest product scrap especially in Jun 2012 and July 2013, total scrap was 225 and highest in 20133 with 139 and the common reason scrap was Thermoform temperature too low, color incorrect . 
 
-- Recommendation: Focus on improving the Subassembly process by implementing automated inspection tools to reduce scrap. Also, prioritize monitoring and optimizing the production of products like Fork End and Seat Stays to enhance overall efficiency.
+- Recommendation: Need to re-check the machinery system and assembly team at the final assembly stage, especially for the ML crankset product when this product alone has a deficit of $25.6K
 
-<img width="1303" height="729" alt="image" src="https://github.com/user-attachments/assets/7f0221aa-b19a-427c-8444-6f9987b3a8e3" />
+<img width="1313" height="736" alt="image" src="https://github.com/user-attachments/assets/a581b318-84a4-447b-bebb-dc8b08da574f" />
 
 #### 2️⃣ Dashboard 2 Preview  
 
--Observation: Dashboard 2 focuses on detailed scrap analysis, showing Total Scrap by FinishedGoodsFlag (20.08K), Scrap Rate by Class (28.28% H, 37.95% M, 33.76% L), and Scrap Value per Location (peaking at $153K at Final Assembly). Trends in scrap quantity and value fluctuate (0K-2K), highlighting Final Assembly and Finished Goods Storage as areas to monitor
+-Observation: Dashboard 2 focuses on detailed scrap analysis, showing Total Scrap by FinishedGoodsFlag (20.08K), Scrap Rate by Class (28.28% H, 37.95% M, 33.76% L), and Scrap Value per Location (peaking at $153K at Final Assembly). Trends in scrap quantity and value fluctuate (0K-2K), highlighting Final Assembly and Finished Goods Storage as areas to monitor. 
 
--Recommendation: Enhance inspections at Final Assembly and Finished Goods Storage with automated tools to reduce scrap, and conduct deeper analysis on Class M and L products to optimize processes.
+-Recommendation: Scrap products leading to cost deficits usually occur from late June to September, which is the peak season for sales due to the summer and requires additional staffing during this time, as well as increased process monitoring and inspection, especially in the final assembly area, where $166K has been spent. At the same time, focus more on class M because this is a popular segment with many buyers, but it is noted that this product also has many errors due to the reason Thermoform temperature too low.
 
-<img width="1311" height="740" alt="image" src="https://github.com/user-attachments/assets/1784d472-cf2e-4b48-9ad2-161b6dd9ae07" />
+<img width="1313" height="737" alt="image" src="https://github.com/user-attachments/assets/07b51f5c-d274-4532-b97a-e9d8f77ce691" />
 
 #### 3️⃣ Dashboard 3 Preview
 
 -Observation: Dashboard 3 focuses on inventory risk, showing Safety Stock (974), UnsafeProductValue ($4.66M), and distribution by location (Subassembly $2.4M, Finished Goods $2.3M). Trends indicate high unsafe products at Subassembly, requiring attention
 
--Recommendation: Focus on improving management at Subassembly to reduce unsafe products, implement regular inventory checks, and use forecasting tools to optimize Safety Stock.
+-Recommendation: Road-150 Red, 44 at Final Assembly which has unsafe value highest can be the potential to threaten revenue, need to review or eliminate this product to avoid unnecessary loss or optimize, redesign the product
 
-<img width="1313" height="736" alt="image" src="https://github.com/user-attachments/assets/54ce3b10-4f3b-4fae-bd60-2a64a25a816b" />
+<img width="1313" height="740" alt="image" src="https://github.com/user-attachments/assets/cde11526-5809-4fba-b25d-606540c9dc41" />
 
 ## 🔎 Final Conclusion & Recommendations  
 
