@@ -196,40 +196,33 @@ Table 8: DateTable
 
 ## 🧠 Design Thinking Process  
 
-<img width="1576" height="845" alt="image" src="https://github.com/user-attachments/assets/48ceee4d-6910-45e1-8467-8ced5e19a8bb" />
 
 1️⃣ Empathize & EDA 
 
 -Answer 5W1H
 
-<img width="1024" height="645" alt="image" src="https://github.com/user-attachments/assets/ee709635-e443-4360-b2c6-31c41adec03d" />
+<img width="1032" height="746" alt="image" src="https://github.com/user-attachments/assets/46794a08-8087-4d09-b747-7cd788c1e349" />
 
 -Put myself in the stakeholder position to create Empathy map
 
-<img width="1034" height="767" alt="image" src="https://github.com/user-attachments/assets/fddbbf42-f5ca-4d4a-aef5-91ad6cdc2ee0" />
+<img width="1063" height="734" alt="image" src="https://github.com/user-attachments/assets/5f2a981e-373e-44c9-bebd-a41db6e63937" />
 
 2️⃣ Define point of view  
 
 -Define Northstar Metric
 
-<img width="1040" height="762" alt="image" src="https://github.com/user-attachments/assets/68d060d7-61ec-4d9f-93ff-98373fbd87c5" />
+<img width="1375" height="515" alt="image" src="https://github.com/user-attachments/assets/4ba86840-be83-47bc-a34e-f4be0ffc6735" />
 
--Define Point of View
+-Brainstorming
 
-<img width="1034" height="771" alt="image" src="https://github.com/user-attachments/assets/a8c85ec4-ce7d-4eba-b253-3bd5e476fb61" />
+<img width="1059" height="591" alt="image" src="https://github.com/user-attachments/assets/e2a90dfa-0fe1-466c-ba25-ea1ca9b6b254" />
 
 3️⃣ Ideate  
 
--BRAINSTORMING
+<img width="1035" height="730" alt="image" src="https://github.com/user-attachments/assets/bac59153-cc75-4564-9e2b-3627f589e34c" />
 
-<img width="1034" height="754" alt="image" src="https://github.com/user-attachments/assets/92683cf3-4899-457c-bda4-e97c6e3d0736" />
 
-4️⃣ & 5️⃣ Prototype - Review
-
-<img width="1020" height="668" alt="image" src="https://github.com/user-attachments/assets/5a1d5f4d-b7d1-4aa3-8848-48655b03312d" />
-
-<img width="685" height="212" alt="image" src="https://github.com/user-attachments/assets/8fd6f3c6-7cf5-4a19-ad96-663517924ded" />
-
+# Build dashbroad
 ## ⚒️ Main Process 
 
 1️⃣ Data Cleaning & Preprocessing
